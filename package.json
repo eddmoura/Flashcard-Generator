@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "memorize with flashcard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddmoura/Flashcard-Generator.git"
+  },
+  "author": "eddmoura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddmoura/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/eddmoura/Flashcard-Generator#readme"
+}
